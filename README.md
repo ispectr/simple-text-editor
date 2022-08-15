@@ -13,3 +13,7 @@
    make install
    source prefix.sh # located in the build directory
    ```
+3. Run.
+   ```sh
+   texteditor
+   ```
