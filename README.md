@@ -8,8 +8,8 @@
    ```
 2. Install.
    ```sh
-  mkdir build && cd build
-  cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/.local-kde
-  make install
-  source prefix.sh # located in the build directory
+   mkdir build && cd build
+   cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/.local-kde
+   make install
+   source prefix.sh # located in the build directory
    ```
